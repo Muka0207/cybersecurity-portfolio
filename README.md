@@ -1,6 +1,6 @@
 # 🛡️ Cibersegurança & Infraestrutura | Portfólio Prático
 
-**Samuel Araújo Cocchi Amaral** *Graduando em Cibersegurança | Analista em Formação | Blue & Red Team* 📍 São Paulo, SP, Brasil | 🔗 [Seu LinkedIn] | ✉️ [Seu E-mail]
+**Samuel Araújo Cocchi Amaral** *Graduando em Cibersegurança | Analista em Formação | Blue & Red Team* 📍 São Paulo, SP, Brasil | 🔗 https://www.linkedin.com/in/samuel-araujo-608532271/ | ✉️ mr.oreo0207@gmail.com | 📞 11 93465-5319
 
 ---
 
